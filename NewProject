@@ -1,0 +1,22 @@
+
+GMG -  (Jan 25 - Present) 
+
+Project Description:
+It is a unified loyalty and engagement platform developed for a Dubai-based retail group (GMG), which operates as a regional enabler for global and local brands such as Nike, Aswaaq, and Supercare. The platform is designed to integrate seamlessly with both e-commerce and POS systems, enabling customers to earn, redeem, and manage loyalty rewards across multiple brands and channels. It supports real-time transaction processing, personalized offers, customer segmentation, and omnichannel experiences. The system also integrates with third-party services including payment gateways, order management systems, and CRM tools to ensure a consistent and scalable loyalty ecosystem across online and offline retail touchpoints.
+
+Languages/Technologies:
+React.js, Node.js (Microservices), Express.js, REST APIs, MongoDB, Redux, HTML5, CSS3, Third-party Integrations
+
+Project Role: Full Stack Developer
+
+1. Developed and maintained scalable front-end applications using React.js, ensuring responsive UI and optimal performance across devices.
+2. Built and enhanced backend microservices using Node.js and Express.js for handling business logic, APIs, and integrations.
+3. Designed and consumed RESTful APIs for seamless communication between frontend, mobile and backend systems.
+4. Integrated third-party POS system transactions.
+5. Implemented state management using Redux to handle complex application workflows and improve user experience.
+6. Collaborated with cross-functional teams including UI/UX designers, QA engineers, and product managers to deliver high-quality features.
+7. Optimized application performance through code splitting, lazy loading, and API response improvements.
+8. Participated in Agile/Scrum ceremonies including sprint planning, daily stand-ups, and retrospectives.
+9. Ensured code quality through peer reviews, unit testing, and adherence to coding standards.
+10.Debugged and resolved production issues, improving system stability and reliability.
+
